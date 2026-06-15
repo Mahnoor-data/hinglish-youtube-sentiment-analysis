@@ -1,0 +1,12 @@
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+scikit-learn>=1.2.0
+tensorflow>=2.12.0
+torch>=2.0.0
+transformers>=4.30.0
+youtube-comment-downloader>=0.1.0
+emoji>=2.2.0
+langdetect>=1.0.9
+psutil>=5.9.0
